@@ -1,0 +1,12 @@
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\bin\Debug\netcoreapp3.1\EServices.Infrastructure.deps.json
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\bin\Debug\netcoreapp3.1\EServices.Infrastructure.dll
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\bin\Debug\netcoreapp3.1\EServices.Infrastructure.pdb
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\bin\Debug\netcoreapp3.1\EServices.Core.dll
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\bin\Debug\netcoreapp3.1\EServices.Core.pdb
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.csprojAssemblyReference.cache
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.AssemblyInfoInputs.cache
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.AssemblyInfo.cs
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.csproj.CopyComplete
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.dll
+E:\Free Lanser Work\180 it Files\Dynamic eServices 2020\WorkflowEngine2020\WorkflowEngine2020\EServices.Infrastructure\obj\Debug\netcoreapp3.1\EServices.Infrastructure.pdb
